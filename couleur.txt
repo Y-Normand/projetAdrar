@@ -1,0 +1,11 @@
+Couleur beige : 
+Hexa: #DDC3A5;
+RGB : rgb(221,195,165);
+
+Couleur Noir : 
+Hexa : #201E20;
+Rgb : rgb(32,30,32);
+
+Couleur beige/orangé : 
+Hexa : #E0A96D;
+RGB : rgb(224,169,109);
